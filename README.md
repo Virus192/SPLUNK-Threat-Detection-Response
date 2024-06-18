@@ -90,7 +90,7 @@ Upon completion, several security recommendations were made based on the simulat
 - Educating users
 - Updating systems
 - Conducting security assessments
-- Enforcing PoLP
+- Enforcing Principle of Least Privilege (PoLP)
 - Establishing an incident response plan
 
 This project demonstrates the importance of proactive measures and continuous monitoring to maintain a robust cybersecurity posture. The detailed steps and configurations provided can serve as a guide for similar implementations in other organizations.
