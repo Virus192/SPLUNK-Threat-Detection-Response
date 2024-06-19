@@ -1,4 +1,4 @@
-# SPLUNK PROJECT
+# SPLUNK Detection & Response
  # Harnessing Splunk for Threat Detection and Mitigation
 
 **Enhancing Cybersecurity Resilience: A Comprehensive Project Report**
